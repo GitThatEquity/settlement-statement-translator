@@ -1,0 +1,147 @@
+======================================================================
+FILE: 02-purchase-with-prorations.pdf
+======================================================================
+PAGES: 3
+----- page 1 -----
+OMB NO. 2502-0265
+A. B. TYPE OF LOAN:
+1. FHA 2. FmHA 3. CONV. UNINS. 4. VA 5. CONV. INS.
+U.S. DEPARTMENTOF HOUSING& URBAN DEVELOPMENT
+6. FILE NUMBER: 7. LOAN NUMBER:
+SETTLEMENT STATEMENT 25-0613
+8. MORTGAGE INSCASE NUMBER:
+C. NOTE: This form is furnished to give you a statement of actualsettlement costs. Amountspaid to and bythe settlement agent are shown.
+Itemsmarked "[POC]"were paid outside the closing; they are shown here forinformational purposesand are not included in the totals.
+1.0 3/98 (25-0613.PFD/25-0613/23)
+D. NAME AND ADDRESS OF BORROWER: E. NAME AND ADDRESS OF SELLER: F. NAME AND ADDRESS OF LENDER:
+Martin K. Ellsworth Eileen R. Prosser
+1420 Crescent Street, 2nd Floor 62 North Laurel Ave
+Riverton, PA 19044 Westbrook, PA 19023
+G. PROPERTYLOCATION: H. SETTLEMENT AGENT: 99-1234567 I. SETTLEMENT DATE:
+62 North Laurel Ave Cornerstone Settlement & Abstract, Inc.
+Westbrook, PA 19023 December3, 2025
+Hartley County, Pennsylvania PLACE OF SETTLEMENT
+220 Ellison Court Suite 310
+Brookvale,PA 15012
+J.SUMMARY OF BORROWER'S TRANSACTION K. SUMMARY OF SELLER'S TRANSACTION
+100. GROSS AMOUNTDUEFROMBORROWER: 400. GROSS AMOUNTDUETO SELLER:
+101. Contract Sales Price 95,095.36 401. Contract Sales Price
+102. Personal Property 402. Personal Property
+103. Settlement Chargesto Borrower (Line 1400) 17,239.55 403.
+104. 404.
+105. 405.
+Adjustments ForItemsPaid By Sellerin advance Adjustments ForItemsPaid By Sellerin advance
+106. City/Town Taxes 12/03/25 to 01/01/26 148.04 406. City/Town Taxes to
+107. CountyTaxes 12/03/25 to 01/01/26 33.41 407. CountyTaxes to
+108. School Taxes 12/03/25 to 07/01/26 1,656.97 408. School Taxes to
+109. 409.
+110. 410.
+111. 411.
+112. 412.
+120. GROSS AMOUNTDUEFROMBORROWER 114,173.33 420. GROSS AMOUNTDUETO SELLER
+200. AMOUNTS PAID BYORIN BEHALF OF BORROWER: 500. REDUCTIONSIN AMOUNTDUETOSELLER:
+201. Depositorearnest money 3,000.00 501. Excess Deposit(See Instructions)
+202. Principal Amount of NewLoan(s) 502. Settlement Chargesto Seller(Line 1400)
+203. Existing loan(s) taken subject to 503. Existing loan(s) taken subject to
+204. 504.
+205. 505.
+206. 506.
+207. 507.
+208. 508.
+209. 509.
+Adjustments ForItemsUnpaid By Seller Adjustments ForItemsUnpaid By Seller
+210. City/Town Taxes to 510. City/Town Taxes to
+211. CountyTaxes to 511. CountyTaxes to
+212. School Taxes to 512. School Taxes to
+213. 513.
+214. 514.
+215. 515.
+216. 516.
+217. 517.
+218. 518.
+219. 519.
+220. TOTAL PAID BY/FORBORROWER 3,000.00 520. TOTAL REDUCTION AMOUNTDUESELLER
+300. CASHATSETTLEMENTFROM/TO BORROWER: 600. CASHATSETTLEMENTTO/FROM SELLER:
+301. Gross Amount Due From Borrower (Line 120) 114,173.33 601. Gross Amount Due To Seller(Line 420)
+302. Less Amount Paid By/ForBorrower (Line 220) ( 3,000.00) 602. Less ReductionsDue Seller(Line 520) ( )
+303. CASH ( X FROM )( TO ) BORROWER 111,173.33 603. CASH ( X TO ) ( FROM) SELLER
+HUD-1 (3-86) RESPA, HB4305.2
+----- page 2 -----
+Page 2
+L.SETTLEMENT CHARGES
+700. TOTAL COMMISSION Basedon Price $ @ % PAIDFROM PAIDFROM
+Division of Commission (line 700)asFollows: BORROWER'S SELLER'S
+701. $ to FUNDSAT FUNDSAT
+702. $ to SETTLEMENT SETTLEMENT
+703. Commission Paid at Settlement
+704. to
+800. ITEMS PAYABLEIN CONNECTION WITH LOAN
+801. Loan Origination Fee % to
+802. Loan Discount % to
+803. to
+804. to
+805. to
+806. to
+807. to
+808.
+809.
+810.
+811.
+900. ITEMS REQUIRED BYLENDER TO BE PAID IN ADVANCE
+901. Interest From to @ $ /day ( days %)
+902. Mortgage Insurance Premium for monthsto
+903. Hazard Insurance Premium for years to
+904.
+905.
+1000. RESERVES DEPOSITEDWITH LENDER
+1001. Hazard Insurance @ $ per
+1002. Mortgage Insurance @ $ per
+1003. City/Town Taxes @ $ per
+1004. CountyTaxes @ $ per
+1005. School Taxes @ $ per
+1006. @ $ per
+1007. @ $ per
+1008. @ $ per
+1100. TITLECHARGES
+1101. Settlement orClosing Fee to Cornerstone Settlement & Abstract, Inc. 395.00
+1102. Notary/Overnight/WireFees to Cornerstone Settlement & Abstract, Inc. 210.00
+1103. Lien LetterReimbursement to Cornerstone Settlement & Abstract, Inc. 165.00
+1104. Deed Prep Fee to Cornerstone Settlement & Abstract, Inc. 250.00
+1105. Document Preparation to
+1106. Notary Fees to
+1107. Attorney'sFees to
+(includesabove item numbers: )
+1108. Title Insurance to Meridian National Title Insurance Co. Sale Rate 999.92
+(includesabove item numbers: )
+1109. Lender'sCoverage $
+1110. Owner'sCoverage $ 95,095.36 999.92
+1111.
+1112.
+1113.
+1200. GOVERNMENTRECORDINGAND TRANSFER CHARGES
+1201. Recording Fees: Deed $ 117.25; Mortgage $ ; Releases $ 117.25
+1202. City/CountyTax/Stamps: Deed $ 1,426.43;Mortgage $ 1,426.43
+1203. State Tax/Stamps: Deed $ 950.95;Mortgage $ 950.95
+1204.
+1205.
+1300. ADDITIONAL SETTLEMENTCHARGES
+1301. Survey to
+1302. Pest Inspection to
+1303. Release/Reimbursement Fees to Brightwater LLC 3,300.00
+1304. Release/Reimbursement Fees to Cornerstone Property Partners 3,425.00
+1305. See addit'l disb. exhibit to 6,000.00
+1400. TOTAL SETTLEMENTCHARGES (Enter on Lines 103, Section Jand 502, Section K) 17,239.55
+( 25-0613 / 25-0613 / 23 )
+----- page 3 -----
+HUD-1, Page 3
+Borrower(s):Martin K. Ellsworth
+1420 Crescent Street, 2nd Floor
+Riverton, PA 19044
+Settlement Agent:CornerstoneSettlement &Abstract, Inc.
+(412)555-0142
+Place of Settlement:220 Ellison Court Suite 310
+Brookvale,PA 15012
+Settlement Date:December 3, 2025
+Property Location:62 North Laurel Ave
+Westbrook, PA 19023
+Hartley County, Pennsylvania
