@@ -10,7 +10,7 @@ Record, before mapping anything:
 
 - **What you were given:** a PDF, extracted text, or pasted text
 - **How many pages**
-- **Whether the text is machine-extracted.** Extraction mangles spacing on HUD-1s. `DoulosConsulting, LLC` and `CountyTaxes` are extraction artifacts, not the document. Transcribe them as they reached you and note the reading separately (see rule 3).
+- **Whether the text is machine-extracted.** Extraction mangles spacing on HUD-1s. `NorthgateHoldings, LLC` and `CountyTaxes` are extraction artifacts, not the document. Transcribe them as they reached you and note the reading separately (see rule 3).
 
 If you were given a PDF and cannot read it, say so and stop. Do not translate a statement you could not open.
 
@@ -28,11 +28,11 @@ Copy captions, names and payees **exactly as they appear**, including missing sp
 
 Where an extraction artifact makes a value hard to read, the verbatim value comes first and the reading follows in parentheses, labelled:
 
-    DoulosConsulting, LLC (spacing as extracted; reads "Doulos Consulting, LLC")
+    NorthgateHoldings, LLC (spacing as extracted; reads "Northgate Holdings, LLC")
 
 Never silently correct a name. Never replace an abbreviation with its expansion. Never apply the spelling a name usually has.
 
-This is the rule the whole contract rests on, so it is worth stating the failure it prevents: a translator that writes `Doulos Consulting, LLC` because that is how the company is normally styled has put a string in the output that is not in the input.
+This is the rule the whole contract rests on, so it is worth stating the failure it prevents: a translator that writes `Northgate Holdings, LLC` because that is how the company is normally styled has put a string in the output that is not in the input.
 
 ## 4. Map the statement to the schema
 

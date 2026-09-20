@@ -49,7 +49,7 @@ The HUD-1 form itself carries OMB control number 2502-0265.
 | `24-cfr-3500-appendix-a-2007-official.xml` | 33794 | `71d3ebfff65ab8c7cc87f1d134d96daf98bc1442afb76d84c9fb7d8b480bdaac` |
 | `24-cfr-3500-appendix-a-2007.md` | 31908 | `c87984a77930db7364add7295a8aa03ba7f9509d8f48eda7075bb5708a432e69` |
 | `hud1-line-dictionary.md` | 9423 | `ae3bc2b4b5e9eb3896cefedefd2f6f8847234884a8155e2f0a3c83217e48ba6e` |
-| `output-schema.md` | 9354 | `a033a88b53c56b7dc0c8b1c7f8af542d86acbcac7f3c99ff6676e7c9a5822d27` |
+| `output-schema.md` | 9357 | `50e9d033790f01cc88291e19f23f099db2b60d8ffee3c9d2a3e338e6d9fa5e17` |
 
 The `-official.xml` files are byte-for-byte what the government servers returned. The two `.md` files are generated from them by `tools/convert_appendix.py`, which strips tags and numbers each paragraph so it can be cited.
 

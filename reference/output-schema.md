@@ -52,7 +52,7 @@ A number that appears in the output and is neither cited nor marked `computed:` 
 | Property location | `[Sec. G]` verbatim |
 | County | `[Sec. G]` |
 
-Names are transcribed as printed. If extraction produced `DoulosConsulting, LLC` with the space missing, that is what the field says. A normalized reading may be added in parentheses **after** the verbatim value, labelled: `DoulosConsulting, LLC (spacing as extracted; reads "Doulos Consulting, LLC")`.
+Names are transcribed as printed. If extraction produced `NorthgateHoldings, LLC` with the space missing, that is what the field says. A normalized reading may be added in parentheses **after** the verbatim value, labelled: `NorthgateHoldings, LLC (spacing as extracted; reads "Northgate Holdings, LLC")`.
 
 ## Section 3. Price and cash movement
 
