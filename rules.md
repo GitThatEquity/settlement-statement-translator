@@ -50,6 +50,8 @@ Work the schema in order, section 1 through section 6. For each field:
 
 **P.O.C. items are reported and excluded from every sum** `[1024-A 5]`.
 
+**Statement status is derived, and the rule is this one.** `final` if `[Sec. I]` prints a settlement date; `preliminary` if it does not. Write which test fired, e.g. `final -- a settlement date is present`. A date found only elsewhere (a page-3 block, a filename, a file number) does not count.
+
 ## 5. When a field has no source
 
 Write exactly `not in source`.
@@ -72,7 +74,7 @@ Never add:
 - **A party's role** the statement did not assign
 - **A county, municipality or ZIP** not printed in `[Sec. G]`
 - **A spelling** other than the one that appeared
-- **A total** the statement did not print -- unless it is marked `computed:` in section 7, with every operand cited
+- **A total** the statement did not print -- unless it sits in the `Recomputed` column of section 7, with every operand cited in the `Expression` column
 - **A characterisation**: "high," "customary," "standard," "unusual," "should be"
 - **A fact from another statement**, including an earlier version of this same deal
 
@@ -84,7 +86,7 @@ Section 7 re-adds the form's own totals. That is derivation from cited operands,
 
 The rules for it:
 
-- Every computed value is written `computed:` followed by the expression.
+- Every computed value goes in the `Recomputed` column of section 7 and nowhere else. That column is the marker; no `computed:` prefix is written. The `Expression` column beside it shows the operands.
 - Every operand in the expression carries its line citation.
 - An operand that is `not in source` makes the whole check `cannot check`. It is never treated as zero to make a sum work.
 - P.O.C. amounts and outside-the-column amounts are excluded.
@@ -116,7 +118,9 @@ Run the shape test in `reference/output-schema.md` and confirm each point:
 4. Section 7 shows a result for every check
 5. Section 8 ends with the four counts
 6. Section 9 lists rows or says `Nothing unmapped.`
-7. **Every number in the output is either cited or marked `computed:`**
+7. **Every number in the output is either cited or sits in the `Recomputed` column of section 7**
+
+8. **Every name, date, cash direction and line placement matches the input.** A name or date must be the printed characters. A figure must sit on the line it is cited to. A cash direction is the box that carries the X. `python3 tools/trace_check.py` runs these checks.
 
 Point 7 is the test that catches invention. Walk the finished sheet, take each number in turn, and find the line it came from. If one cannot be traced, delete it or move it to section 9. Do not ship it with a plausible citation attached.
 

@@ -97,7 +97,7 @@ Lines 504 through 509 print with neither caption nor amount.
 | `[L511]` | `CountyTaxes` | not in source | not in source | not in source | seller |
 | `[L512]` | `School Taxes` | not in source | not in source | not in source | seller |
 
-The three prorations on 106-108 are captioned "Adjustments For Items Paid By Seller in advance." No per-diem or day count is stated, and none is derived.
+The three prorations on 106-108 are captioned `Adjustments ForItemsPaid By Sellerin advance` (spacing as extracted). No per-diem or day count is stated, and none is derived.
 
 ## 7. Arithmetic checks
 
@@ -118,7 +118,7 @@ The three prorations on 106-108 are captioned "Adjustments For Items Paid By Sel
 | `[L601]` = `[L420]` | both not in source | -- | -- | cannot check |
 | `[L602]` = `[L520]` | both not in source | -- | -- | cannot check |
 
-The seller side of this statement -- the 400, 500 and 600 series -- carries no amounts anywhere. That is why six checks resolve to `cannot check`. The 999.92 printed on `[L1110]` is excluded from the column sum, which closes at 17,239.55 without it.
+The seller side of this statement -- the 400, 500 and 600 series -- carries no amounts anywhere. That is why seven checks resolve to `cannot check`. The 999.92 printed on `[L1110]` is excluded from the column sum, which closes at 17,239.55 without it.
 
 ## 8. Not in source
 
@@ -143,3 +143,4 @@ Counts:
 | `1303. Release/Reimbursement Fees to Brightwater LLC 3,300.00` and `1304. ... Cornerstone Property Partners 3,425.00` | `[L1303]`, `[L1304]` | The caption does not fix whether these are fees for obtaining releases or reimbursements of amounts paid to release something. `[3500-A 35]` says payoffs of seller obligations belong on lines 506-509 and not on 1303-1305; both amounts here sit in the borrower column. Reported as printed, not reclassified. |
 | `1110. Owner'sCoverage $ 95,095.36 999.92` | `[L1110]` | Two figures on one line. 1109 and 1110 hold policy coverage amounts outside the columns, and 999.92 is also the amount on `[L1108]`. Whether this is the coverage line repeating the premium or a second charge is not fixed by the statement. |
 | `Settlement Date:December 3, 2025` | page 3 | The page 3 block prints the settlement date with the spacing intact, where `[Sec. I]` prints `December3, 2025`. Same date, two extractions; neither was normalized. |
+| `Settlement Agent:CornerstoneSettlement &Abstract, Inc.` and `(412)555-0142` | page 3 | The page 3 block prints the settlement agent name with different spacing from `[Sec. H]` (`Cornerstone Settlement & Abstract, Inc.`) and adds a telephone number that `[Sec. H]` does not carry. Neither is mapped to a section 1 field; the schema has no telephone field. Neither was normalized. |

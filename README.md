@@ -53,7 +53,7 @@ Both versions of the instructions are in `reference/`, as the government publish
 | `reference/*-official.xml` | The two appendices exactly as the government serves them |
 | `inputs/` | Four statements to run it against, and a note on what is real and what was changed |
 | `outputs/` | The four finished close-out sheets |
-| `tools/trace_check.py` | Traces every figure in a sheet back to the statement. Has a self-test |
+| `tools/trace_check.py` | Traces every figure, name, date, cash direction and line placement in a sheet back to the statement. Has a self-test (12 injected failures) |
 | `tools/extract_hud.py` | Your own PDF to the text format the translator reads |
 | `tools/convert_appendix.py` | Regenerates the citable markdown from the official XML |
 

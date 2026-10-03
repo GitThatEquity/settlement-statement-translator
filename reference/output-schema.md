@@ -13,13 +13,13 @@ If the input was three pages or one. If the deal was a cash purchase or a financ
 | `[L303]` | A numbered line on the statement. The citation anchor. |
 | `[Sec. G]` | A lettered block in the header. |
 | `not in source` | The schema asks for this; the statement does not answer it. **Required value. Never leave a field blank, never guess.** |
-| `computed:` | A value this translator derived. Must be followed by the expression, with every operand cited. |
+| `Recomputed` | The section 7 column that holds every value this translator derived. The `Expression` column beside it shows the operands, each cited. There is no `computed:` prefix. |
 | `P.O.C.` | Paid outside closing. Reported, never added into a total `[1024-A 5]`. |
 | `verbatim` | Reproduce the characters as printed, including odd spacing and abbreviations. |
 
 **Every value in sections 1 through 6 carries a citation or says `not in source`.** There is no third option.
 
-A number that appears in the output and is neither cited nor marked `computed:` is a defect.
+A number that appears in the output and is neither cited nor in the `Recomputed` column of section 7 is a defect.
 
 ---
 
@@ -34,7 +34,7 @@ A number that appears in the output and is neither cited nor marked `computed:` 
 | Mortgage insurance case number | `[Sec. B]` | |
 | Type of loan | `[Sec. B]` | Only if a box is marked. An unmarked row of options is `not in source`. |
 | Settlement date | `[Sec. I]` | |
-| Statement status | derived, stated rule | `final` if a settlement date is present; `preliminary` if not. Say which test fired. |
+| Statement status | derived, stated rule | `final` if `[Sec. I]` prints a settlement date; `preliminary` if not. Say which test fired. Rule lives in `rules.md` step 4. |
 | Settlement agent | `[Sec. H]` verbatim | |
 | Settlement agent TIN | `[Sec. H]` | |
 | Place of settlement | `[Sec. H]` verbatim | |
@@ -194,6 +194,7 @@ A close-out sheet is well formed when all of the following hold:
 4. Section 7 lists every check with a result of `agrees`, `differs by`, or `cannot check`.
 5. Section 8 ends with the four counts.
 6. Section 9 lists rows or says `Nothing unmapped.`
-7. No number appears anywhere without a citation or a `computed:` expression.
+7. No number appears anywhere without a citation or a place in the `Recomputed` column of section 7.
+8. Names, dates and cash directions match the input character for character, and every figure sits on the line it cites. `tools/trace_check.py` tests this.
 
 Point 7 is the one the whole thing rests on.
